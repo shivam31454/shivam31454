@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivam31454
-- 👀 I’m interested in Developing new thing.
+- 👀 I’m interested in Developing new things.
 - 🌱 I’m currently learning Javascript
 - 💞️ Wants to be a Full-Stack Developer.
 <!---
