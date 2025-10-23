@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shivam31454" target="blank"><img src="https://img.shields.io/twitter/follow/shivam31454?logo=twitter&style=for-the-badge" alt="shivam31454" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently Enhancing **My-Skills**
 
 - 💬 Ask me about **HTML,CSS,Javascript,Tailwind,Express,Node,MongoDB**
 
