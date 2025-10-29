@@ -14,7 +14,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivam31454&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam31454&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=shivam31454&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=shivam31454&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D" 
+  height="150" 
+  alt="GitHub Streak"
+/>
+
 </div>
 
 ---
